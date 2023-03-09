@@ -1,0 +1,37 @@
+[
+{
+    "name":"Kobe Bryant",
+    "quotes":["Once you know what failure feels like, determination chases success.",
+        "The most important thing is you must put everybody on notice that you’re here and you are for real",
+        "I can't relate to lazy people. We don't speak the same language. I don't understand you. I don't want to understand you.",
+    "There's nothing truly to be afraid of, when you think about it, because I've failed before, and I woke up the next morning, and I'm OK."],
+    "image":"Kobe"
+},
+{
+    "name":"Michael Jordan",
+    "quotes":["You must expect great things of yourself before you can do them.",
+        "I can accept failure, everyone fails at something. But I can't accept not trying.",
+        "Some people want it to happen, some wish it would happen, and others make it happen.",
+    "Never say never, because limits, like fears, are often just an illusion."],
+    "image":"MJ"
+},
+{
+    "name":"Tristan Tate",
+    "quotes":["A man without struggle is never going to be a powerful man.",
+        "The best men you know are men that have been through struggle or depressed and have come out on the other side.",
+        "If you’re going to be a hero, you’re going to suffer.",
+        "Accomplishment honours your ancestors."],
+    "image":"Tristan"
+},
+{
+    "name":"Andrew Tate",
+    
+    "quotes":["There is no light without dark. There is no joy without pain.",
+        "The King’s limited movement in chess represents limitations in life as a man.",
+        "The man who goes to the gym every single day regardless of how he feels will always beat the man who goes to the gym when he feels like going to the gym",
+        "There is no light without dark. There is no joy without pain.",
+        "Adversity builds men. It is your duty to challenge yourself and craft your own world."],
+    "image":"Andrew"
+}
+
+]

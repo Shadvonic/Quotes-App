@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4383CAA8-8741-436C-B954-144B222279AA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD04C6A8-2780-49CA-89CA-E3AA02386A09"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "L16M3-Wrap-up-Challenge/ViewModels/AuthorModel .swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getLocalJson()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9813E4CB-2BE3-4352-B764-9AD157B89FB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "L16M3-Wrap-up-Challenge/ViewModels/AuthorModel .swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getLocalJson()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9813E4CB-2BE3-4352-B764-9AD157B89FB3 - bc6fdb1c1f133eb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L16M3_Wrap_up_Challenge.AuthorModel.getLocalJson() -&gt; Swift.Array&lt;L16M3_Wrap_up_Challenge.Author&gt;"
+                  moduleName = "L16M3-Wrap-up-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcmoxey/Desktop/CWC+/L16M3-Wrap-up-Challenge/L16M3-Wrap-up-Challenge/ViewModels/AuthorModel%20.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "9813E4CB-2BE3-4352-B764-9AD157B89FB3 - bc6fdb1c1f133eb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L16M3_Wrap_up_Challenge.AuthorModel.getLocalJson() -&gt; Swift.Array&lt;L16M3_Wrap_up_Challenge.Author&gt;"
+                  moduleName = "L16M3-Wrap-up-Challenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcmoxey/Desktop/CWC+/L16M3-Wrap-up-Challenge/L16M3-Wrap-up-Challenge/ViewModels/AuthorModel%20.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "604">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
